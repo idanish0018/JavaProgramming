@@ -1,3 +1,9 @@
-public class Sum {
+import java.lang.*;
 
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.print("Hello World");
+
+    }
 }
